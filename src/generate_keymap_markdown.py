@@ -1,5 +1,6 @@
 import json
 import pathlib
+import jinja2
 
 # read keymap from json file
 keymap_path = pathlib.Path(
